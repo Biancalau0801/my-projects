@@ -1,0 +1,377 @@
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:24 +0800] "-" 400 2188
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:24 +0800] "-" 400 2196
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:24 +0800] "-" 400 2908
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:31 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:40 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:07:40 +0800] "GET /EduTrack/admin.html?error=database HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:08:39 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:08:39 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:08:39 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:20:05 +0800] "GET /EduTrack/admin.html HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:20:21 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:20:31 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:20:31 +0800] "GET /EduTrack/admin.html?error=database HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:22:12 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:22:12 +0800] "GET /EduTrack/admin.html?error=database HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:22:33 +0800] "GET /EduTrack/admin.html HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:22:37 +0800] "GET /EduTrack/admin.html HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:22:55 +0800] "GET /EduTrack/aindex.html HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:23:50 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 200 95
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:35:14 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:36:41 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:36:41 +0800] "GET /EduTrack/admin.html?error=database HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:41:38 +0800] "GET /EduTrack/LoginServlet) HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:42:07 +0800] "GET /LoginServlet HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:46:57 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:46:57 +0800] "GET /EduTrack/index.html?error=database HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:11 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:11 +0800] "GET /EduTrack/index.html?error=database HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:19 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:19 +0800] "GET /EduTrack/index.html?error=database HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:47 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:47 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:47:47 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:48:25 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 200 165
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:04 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:17 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:17 +0800] "GET /EduTrack/index.html?error=database HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:27 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:27 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:00:50:27 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:01 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:33 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:33 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:37 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:37 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:37 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:49 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:49 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:22:49 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:23:57 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:23:57 +0800] "GET /EduTrack/index.html?error=regfail HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:10 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:10 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:14 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:14 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:14 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:46 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:24:46 +0800] "GET /EduTrack/index.html?error=regfail HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:25:03 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:25:03 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:25:12 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:25:12 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:25:12 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:27:26 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:27:26 +0800] "GET /EduTrack/index.html?error=regfail HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:27:36 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:27:36 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:02 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:02 +0800] "GET /EduTrack/index.html?registration=success HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:11 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:11 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:43 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:43 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:01:31:43 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+127.0.0.1 - - [17/Jan/2026:12:31:28 +0800] "GET / HTTP/1.1" 200 11232
+127.0.0.1 - - [17/Jan/2026:12:32:25 +0800] "GET / HTTP/1.1" 200 11232
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:38:40 +0800] "GET /LoginServlet HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:39:03 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:39:03 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:39:03 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2206
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2208
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2212
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2222
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2192
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2022
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:46 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:49 +0800] "-" 400 2232
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:49 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:49 +0800] "-" 400 2148
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:49 +0800] "-" 400 2202
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:40:57 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:41:09 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:41:09 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:29 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:29 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:30 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:30 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:36 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:36 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:47:36 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:59:59 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:12:59:59 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7551
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:00:05 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:00:05 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:00:05 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:20:38 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:20:38 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:21:43 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:21:43 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:29:42 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:29:43 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:03 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:03 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:03 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:12 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:12 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:12 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:32 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:32 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:32 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:33 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:41 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:41 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:41 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:47 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:32:48 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:33 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:33 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:37 +0800] "-" 400 2218
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:37 +0800] "-" 400 2012
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:37 +0800] "-" 400 2960
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2218
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2212
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2198
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2166
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2220
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:45 +0800] "-" 400 2118
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2182
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2220
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2196
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2208
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2210
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2176
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2188
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2208
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:51 +0800] "-" 400 2010
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2220
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2212
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2206
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2176
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2028
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2202
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2188
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:33:56 +0800] "-" 400 2236
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:34:25 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:34:25 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:34:37 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:34:37 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2186
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2192
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2190
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2098
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2236
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:18 +0800] "-" 400 2172
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:32 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:49:34 +0800] "GET /EduTrack/index.htm HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:03 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:03 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:14 +0800] "GET /EduTrack/index.htm HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:19 +0800] "GET /EduTrack/index.htm HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:30 +0800] "GET /EduTrack/index.htm HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:51 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:13:50:51 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:31 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:35 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:35 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:41 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:41 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:48 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:24:48 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:24 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:25 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:41 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:42 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:51 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:51 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:26:51 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:27:31 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:27:31 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:27:48 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:27:48 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:32:06 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:32:06 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:35:01 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:35:01 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:37:03 +0800] "GET /EduTrack/index.html?error=regfail HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:37:08 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:37:08 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:38:04 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:38:04 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:38:15 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:38:15 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:42:17 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:42:20 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:42:20 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:43:43 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:43:46 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:43:46 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:47:50 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:47:58 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:47:58 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:48:15 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:48:15 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:49:10 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:49:30 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:49:30 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:49:46 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:49:46 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:50:03 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:50:03 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:55:21 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:55:51 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:16:55:52 +0800] "GET /EduTrack/index.html?error=regfail HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:06:19 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:06:19 +0800] "GET /EduTrack/index.html?msg=registered HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:11:03 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:11:03 +0800] "GET /EduTrack/attendance.html HTTP/1.1" 200 2950
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:50:56 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:50:59 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:50:59 +0800] "GET /EduTrack/login%20page.html?error=database HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:51:11 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:51:11 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:17:51:11 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:44 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:49 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:49 +0800] "GET /EduTrack/login%20page.html?error=database HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:57 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:57 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:12:57 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:19:32 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:19:47 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:19:47 +0800] "GET /EduTrack/login%20page.html?error=database HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:20:02 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:20:02 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:20:02 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:33 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:35 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:35 +0800] "GET /EduTrack/login%20page.html?error=database HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:47 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:47 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:25:47 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:30:11 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:30:13 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:30:13 +0800] "GET /EduTrack/login%20page.html?error=database HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:34:50 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:34:52 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:34:52 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:35:08 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:35:11 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:35:11 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:37:51 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:37:51 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:37:57 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:37:57 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:37:57 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:40:59 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:40:59 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:41:09 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:41:09 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:41:09 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:44:46 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:44:46 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:45:06 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:45:06 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:45:06 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:48:31 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:48:57 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 500 1826
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:50:48 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:50:51 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:50:51 +0800] "GET /EduTrack/login%20page.html?error=invalid HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:51:08 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:51:08 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:18:51:08 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:18:17 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:19:03 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:19:03 +0800] "GET /EduTrack/index.html?msg=registered HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:19:23 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:19:23 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 1710
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:20:02 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:20:07 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:20:07 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 1710
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:20:33 +0800] "GET /EduTrack/attendance_scan.jsp HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:21:37 +0800] "GET /EduTrack/LogoutServlet HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:21:52 +0800] "GET /EduTrack/LogoutServlet HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:05 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:05 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 1710
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:50 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:50 +0800] "GET /EduTrack/index.html?msg=registered HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:59 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:22:59 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 1711
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:37:42 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:37:51 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:37:51 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 4365
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:38:19 +0800] "GET /EduTrack/attendance_scan.jsp HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:07 +0800] "-" 400 2200
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:07 +0800] "-" 400 2194
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:07 +0800] "-" 400 2946
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:40 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:43 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:42:43 +0800] "GET /EduTrack/index.html?error=invalid HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:43:23 +0800] "POST /EduTrack/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:43:23 +0800] "GET /EduTrack/index.html?msg=registered HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:43:27 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:43:27 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 4365
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:41 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:41 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 5121
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:44 +0800] "GET /EduTrack/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:44 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:49 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:49 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 5121
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:55 +0800] "GET /EduTrack/settings.jsp HTTP/1.1" 404 743
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:19:59:59 +0800] "GET /EduTrack/profile.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:20:03:52 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:20:03:52 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6447
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:20:04:03 +0800] "GET /EduTrack/profile.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:16:34 +0800] "GET /EduTrack/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:16:34 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:16:44 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:16:44 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6447
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:59:03 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:59:05 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:21:59:06 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:43:30 +0800] "GET /EduTrack/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:43:32 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:43:33 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:43:37 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 3588
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:06 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:06 +0800] "GET /EduTrack/timetable.jsp?msg=Class%20added%20successfully. HTTP/1.1" 200 3678
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:10 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:10 +0800] "GET /EduTrack/timetable.jsp?msg=Timetable%20retrieved%20for%20243UC2466T HTTP/1.1" 200 3687
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:18 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:18 +0800] "GET /EduTrack/timetable.jsp?msg=Timetable%20retrieved%20for%20243UC2466T HTTP/1.1" 200 3687
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:40 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:44 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 3588
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:46 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:44:46 +0800] "GET /EduTrack/timetable.jsp?msg=Timetable%20retrieved%20for%20243UC2466T HTTP/1.1" 200 3687
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:49:37 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:49:37 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:49:40 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 2625
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:01 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:01 +0800] "GET /EduTrack/timetable.jsp?msg=Request%20Valid:%20Class%20added%20to%20timetable. HTTP/1.1" 200 2704
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:04 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 200 3019
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:12 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:13 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 2625
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:15 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 200 3019
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:39 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:39 +0800] "GET /EduTrack/timetable.jsp?msg=Class%20dropped%20successfully. HTTP/1.1" 200 2691
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:43 +0800] "POST /EduTrack/TimetableServlet HTTP/1.1" 200 2939
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:50:56 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:51:12 +0800] "GET /EduTrack/attendance_report.jsp HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:51:15 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 2625
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:57:53 +0800] "GET /EduTrack/index.htmlhttp://localhost:8080/EduTrack/index.html HTTP/1.1" 404 832
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:58:20 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:58:20 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:22:58:25 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 5335
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:23:05:42 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:23:05:42 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6376
+0:0:0:0:0:0:0:1 - - [17/Jan/2026:23:05:44 +0800] "GET /EduTrack/timetable.jsp HTTP/1.1" 200 4131

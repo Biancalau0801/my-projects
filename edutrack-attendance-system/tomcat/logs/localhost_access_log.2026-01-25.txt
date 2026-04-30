@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:25 +0800] "GET /EduTrack/scan_attendance.jsp HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:25 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:25 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:25 +0800] "GET /favicon.ico HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:27 +0800] "GET /EduTrack/AttendanceServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:27 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:29 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Jan/2026:18:17:29 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6868

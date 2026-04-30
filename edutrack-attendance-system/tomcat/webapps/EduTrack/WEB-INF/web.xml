@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="3.1">
+
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/LoginServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LogoutServlet</servlet-name>
+        <servlet-class>LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogoutServlet</servlet-name>
+        <url-pattern>/LogoutServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <servlet-class>UserManagementServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <url-pattern>/UserManagement</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>AdminDashboardServlet</servlet-name>
+        <servlet-class>AdminDashboardServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminDashboardServlet</servlet-name>
+        <url-pattern>/AdminDashboard</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>CourseManagementServlet</servlet-name>
+        <servlet-class>CourseManagementServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CourseManagementServlet</servlet-name>
+        <url-pattern>/CourseManagement</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>CourseServlet</servlet-name>
+        <servlet-class>CourseServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CourseServlet</servlet-name>
+        <url-pattern>/CourseServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TimetableServlet</servlet-name>
+        <servlet-class>TimetableServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TimetableServlet</servlet-name>
+        <url-pattern>/TimetableServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AttendanceServlet</servlet-name>
+        <servlet-class>AttendanceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AttendanceServlet</servlet-name>
+        <url-pattern>/AttendanceServlet</url-pattern>
+    </servlet-mapping>
+   
+    <servlet>
+        <servlet-name>AttendanceServlet_lecture</servlet-name>
+        <servlet-class>AttendanceServlet_lecture</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AttendanceServlet_lecture</servlet-name>
+        <url-pattern>/AttendanceServlet_lecture</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>NotificationServlet</servlet-name>
+        <servlet-class>NotificationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>NotificationServlet</servlet-name>
+        <url-pattern>/NotificationServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CoordinatorDashboardServlet</servlet-name>
+        <servlet-class>CoordinatorDashboardServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CoordinatorDashboardServlet</servlet-name>
+        <url-pattern>/CoordinatorDashboardServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>NotificationRulesServlet</servlet-name>
+        <servlet-class>NotificationRulesServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>NotificationRulesServlet</servlet-name>
+        <url-pattern>/NotificationRulesServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TriggerNotificationEngineServlet</servlet-name>
+        <servlet-class>TriggerNotificationEngineServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TriggerNotificationEngineServlet</servlet-name>
+        <url-pattern>/TriggerNotificationEngineServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ReportGenerationServlet</servlet-name>
+        <servlet-class>ReportGenerationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReportGenerationServlet</servlet-name>
+        <url-pattern>/generateReport</url-pattern> 
+    </servlet-mapping>
+
+
+
+</web-app>

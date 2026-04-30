@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduTrack - Attendance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            width: 380px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 12px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #45a049;
+        }
+
+        .info-box {
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        .info-box p {
+            margin: 5px 0;
+        }
+
+        .status {
+            text-align: center;
+            margin-top: 15px;
+            font-weight: bold;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Attendance</h2>
+
+    <!-- Scan QR Button -->
+    <button onclick="scanQR()">📷 Scan QR Code</button>
+
+    <!-- Course Info -->
+    <div class="info-box" id="courseInfo" style="display:none;">
+        <p><strong>Course:</strong> Web Programming</p>
+        <p><strong>Course ID:</strong> CS204</p>
+        <p><strong>Date:</strong> <span id="todayDate"></span></p>
+    </div>
+
+    <!-- Login Confirmation -->
+    <div id="loginSection" style="display:none;">
+        <input type="text" placeholder="Student ID">
+        <input type="password" placeholder="Password">
+        <button onclick="confirmAttendance()">Confirm Attendance</button>
+    </div>
+
+    <p class="status" id="statusMessage"></p>
+</div>
+
+<script>
+    function scanQR() {
+        // Simulate successful QR scan
+        document.getElementById("courseInfo").style.display = "block";
+        document.getElementById("loginSection").style.display = "block";
+
+        // Set today's date
+        const today = new Date().toLocaleDateString();
+        document.getElementById("todayDate").textContent = today;
+    }
+
+    function confirmAttendance() {
+        document.getElementById("statusMessage").textContent =
+            "Attendance recorded successfully ✔";
+    }
+</script>
+
+</body>
+</html>

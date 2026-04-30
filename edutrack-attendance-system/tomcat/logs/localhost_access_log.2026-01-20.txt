@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:27 +0800] "GET /EduTrack/attendance_report.jsp HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:33 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:33 +0800] "GET /EduTrack/index.html?error=unauthorized HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:35 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:35 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6868
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:38 +0800] "GET /EduTrack/TimetableServlet?operation=view HTTP/1.1" 200 9589
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:42 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6868
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:44 +0800] "GET /EduTrack/NotificationServlet HTTP/1.1" 200 1780
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:49 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6802
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:50 +0800] "GET /EduTrack/AttendanceServlet HTTP/1.1" 200 5996
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:47:58 +0800] "GET /EduTrack/scan_attendance.jsp HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:48:01 +0800] "GET /EduTrack/timetable.jsp?error=System%20Error:%20For%20input%20string:%20%223h%22 HTTP/1.1" 200 8334
+0:0:0:0:0:0:0:1 - - [20/Jan/2026:19:50:07 +0800] "GET null HTTP/1.1" 400 2332

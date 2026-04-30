@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduTrack Portal</title>
+    <style>
+        :root {
+            --primary: #10b981;
+            --dark: #0f172a;
+            --accent: #34d399;
+            --gray: #94a3b8;
+            --white: #ffffff;
+        }
+
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            background: radial-gradient(circle at top right, #f8fafc, #cbd5e1);
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--dark);
+        }
+
+        .glass-box {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(16px);
+            padding: 60px 45px;
+            border-radius: 32px;
+            width: 380px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+        /* Unique Branding */
+        .edu-logo {
+            text-align: center;
+            font-size: 52px;
+            font-weight: 900;
+            letter-spacing: -2.5px;
+            margin-bottom: 40px;
+            background: linear-gradient(135deg, #0f172a 0%, #334155 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            position: relative;
+        }
+
+        .edu-logo::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 30px;
+            height: 5px;
+            background: var(--primary);
+            border-radius: 10px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .name-row {
+            display: flex;
+            gap: 12px;
+        }
+
+        .input-wrapper {
+            position: relative;
+        }
+
+        input {
+            width: 100%;
+            padding: 16px 20px;
+            border: 2px solid transparent;
+            border-radius: 18px;
+            background: var(--white);
+            font-size: 15px;
+            color: var(--dark);
+            box-sizing: border-box;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: #fff;
+            box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.1);
+        }
+
+        input::placeholder {
+            color: var(--gray);
+            font-weight: 500;
+        }
+
+        /* Toggle Text (SHOW/HIDE) */
+        .toggle-text {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--primary);
+            letter-spacing: 0.5px;
+            user-select: none;
+        }
+
+        .btn-main {
+            margin-top: 20px;
+            padding: 18px;
+            background: var(--dark);
+            color: #fff;
+            border: none;
+            border-radius: 18px;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-main:hover {
+            background: #000;
+            transform: translateY(-3px);
+            box-shadow: 0 15px 30px -5px rgba(15, 23, 42, 0.4);
+        }
+
+        .switcher {
+            text-align: center;
+            margin-top: 35px;
+            font-size: 14px;
+            font-weight: 500;
+            color: #64748b;
+        }
+
+        .switcher span {
+            color: var(--primary);
+            cursor: pointer;
+            font-weight: 700;
+            margin-left: 5px;
+            text-decoration: none;
+            border-bottom: 2px solid transparent;
+            transition: border 0.3s;
+        }
+
+        .switcher span:hover {
+            border-bottom: 2px solid var(--primary);
+        }
+
+        .err-hint {
+            color: #f43f5e;
+            font-size: 12px;
+            text-align: center;
+            height: 14px;
+            margin-top: 8px;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="glass-box">
+        <div class="edu-logo">EduTrack</div>
+
+        <form id="loginForm">
+            <input type="text" id="lID" placeholder="Student ID" required>
+            <input type="password" id="lPass" placeholder="Password" required>
+            <button type="submit" class="btn-main">Login</button>
+            <div class="err-hint" id="lErr"></div>
+            <div class="switcher">Don't have an account? <span id="toReg">Register</span></div>
+        </form>
+
+        <form id="regForm" style="display:none;">
+            <div class="name-row">
+                <input type="text" id="fn" placeholder="First Name" required>
+                <input type="text" id="ln" placeholder="Last Name" required>
+            </div>
+            <input type="email" id="em" placeholder="University Email" required>
+            <input type="text" id="sid" placeholder="Student ID" required>
+            
+            <div class="input-wrapper">
+                <input type="password" id="p1" placeholder="Create Password" required>
+                <span class="toggle-text" id="toggleP1">SHOW</span>
+            </div>
+
+            <div class="input-wrapper">
+                <input type="password" id="p2" placeholder="Confirm Password" required>
+                <span class="toggle-text" id="toggleP2">SHOW</span>
+            </div>
+
+            <button type="submit" class="btn-main">Register</button>
+            <div class="err-hint" id="rErr"></div>
+            <div class="switcher">Already have an account? <span id="toLog">Login</span></div>
+        </form>
+    </div>
+
+    <script>
+        const loginUI = document.getElementById('loginForm');
+        const regUI = document.getElementById('regForm');
+        
+        // Password toggles for p1 and p2
+        const toggleP1 = document.getElementById('toggleP1');
+        const toggleP2 = document.getElementById('toggleP2');
+
+        // Function to handle toggling visibility
+        const togglePasswordVisibility = (inputElement, toggleElement) => {
+            const isHidden = inputElement.type === 'password';
+            inputElement.type = isHidden ? 'text' : 'password';
+            toggleElement.textContent = isHidden ? 'HIDE' : 'SHOW';
+        };
+
+        // Attach listeners to both toggles
+        toggleP1.onclick = () => {
+            togglePasswordVisibility(document.getElementById('p1'), toggleP1);
+        };
+        toggleP2.onclick = () => {
+            togglePasswordVisibility(document.getElementById('p2'), toggleP2);
+        };
+
+
+        // Navigation
+        document.getElementById('toReg').onclick = () => {
+            loginUI.style.display = 'none';
+            regUI.style.display = 'flex';
+        };
+
+        document.getElementById('toLog').onclick = () => {
+            regUI.style.display = 'none';
+            loginUI.style.display = 'flex';
+        };
+
+        // Form Logic
+        regUI.onsubmit = (e) => {
+            e.preventDefault();
+            if(document.getElementById('p1').value !== document.getElementById('p2').value) {
+                document.getElementById('rErr').textContent = "Passwords do not match";
+                return;
+            }
+            alert("EduTrack Account Registered!");
+            document.getElementById('toLog').click();
+        };
+
+        loginUI.onsubmit = (e) => {
+            e.preventDefault();
+            alert("Accessing Student Portal...");
+        };
+    </script>
+</body>
+</html>

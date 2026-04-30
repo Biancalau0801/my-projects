@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:40 +0800] "GET /EduTrack/AttendanceServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:40 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:40 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:40 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:42 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:42 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6868
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:48 +0800] "GET /EduTrack/profile.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:53 +0800] "GET /EduTrack/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:53 +0800] "GET /EduTrack/index.html HTTP/1.1" 200 7758
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:55 +0800] "POST /EduTrack/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:55 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6868
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:57:58 +0800] "GET /EduTrack/NotificationServlet HTTP/1.1" 200 1780
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:58:00 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6802
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:58:02 +0800] "GET /EduTrack/NotificationServlet HTTP/1.1" 200 1780
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:58:06 +0800] "GET /EduTrack/dashboard.jsp HTTP/1.1" 200 6802
+0:0:0:0:0:0:0:1 - - [30/Jan/2026:22:58:09 +0800] "GET /EduTrack/scan_attendance.jsp HTTP/1.1" 404 750
