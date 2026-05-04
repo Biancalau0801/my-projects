@@ -85,6 +85,11 @@ parking-lot-management-system/
 ├── lib/
 │   └── sqlite-jdbc.jar
 │
+├── diagram/
+│   └── class- diagram
+│   └── sequence- diagram
+│   └── use-case- diagram
+│
 └── README.md
 ```
 
